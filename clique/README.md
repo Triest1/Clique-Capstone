@@ -1,4 +1,4 @@
-# Barangay AI Chatbot
+# Clique Barangay AI Chatbot
 
 A modern, AI-powered chatbot application designed for barangay document processing. Built with React.js, Tailwind CSS, and Framer Motion.
 
